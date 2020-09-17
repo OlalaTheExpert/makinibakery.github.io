@@ -1,2 +1,2 @@
-# makinibakery.github.io
+# makinibakery
 Makery System
